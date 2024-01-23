@@ -71,4 +71,3 @@ Full PDF report can be found on `SSBC-Report` file provided on this repo.
 ![SSBC Report Tab 2](https://github.com/abdallahMahdi1/Data-Analysis-and-Visualization-with-Microsoft-Power-BI-Nanodegree-Program/blob/main/Create-a-Data-Model-for-Seven-Sages-Brewing-Company/SSBC-%20Report%20Page%202.png)
 
 
-![SSBC Report Tab 2](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/01-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/SSBC-Report-Tab2.jpg)
